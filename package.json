@@ -1,0 +1,22 @@
+{
+  "name": "kurubot",
+  "version": "1.0.0",
+  "description": "Discordbot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsukiYami/KuruBot.git"
+  },
+  "author": "TsukiYami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsukiYami/KuruBot/issues"
+  },
+  "homepage": "https://github.com/TsukiYami/KuruBot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
+}
