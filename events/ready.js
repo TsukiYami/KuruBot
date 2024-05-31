@@ -1,5 +1,5 @@
 const { Events, ClientUser } = require('discord.js');
-const { execute } = require('../utility/ping');
+const { execute } = require('../commands/utility/ping');
 
 module.exports = {
     name: Events.ClientReady,
